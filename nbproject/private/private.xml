@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/web/menu.jsp</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/model/Usuario.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/web/manterUsuario.jsp</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/web/listarAgendamento.jsp</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/negocio/NUsuario.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/util/Conexao.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/persistencia/PUsuario.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/negocio/NAgendamento.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/web/manterAgendamento.jsp</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/web/listarUsuario.jsp</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/util/Data.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/controller/CUsuario.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/controller/CAgendamento.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/model/Aparelho.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/persistencia/PAgendamento.java</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/web/index.jsp</file>
+            <file>file:/C:/Users/Notebook/Documents/NetBeansProjects/AcademiaWeb/src/java/model/Agendamento.java</file>
+        </group>
+    </open-files>
+</project-private>
