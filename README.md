@@ -1,4 +1,4 @@
-# AcademiaWeb
+# AcademiaWeb - Gym Management System
 
 Web application developed for gym management and workout scheduling using Java, JSP and PostgreSQL.
 
