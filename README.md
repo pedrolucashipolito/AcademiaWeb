@@ -1,10 +1,10 @@
 # AcademiaWeb - Gym Management System
 
-Web application developed for gym management and workout scheduling using Java, JSP and PostgreSQL.
+Academic web application for gym management and workout scheduling, developed with Java, JSP and PostgreSQL.
 
 ## Overview
 
-AcademiaWeb is an academic project designed to manage gym users and training schedules. The system allows the registration of users, management of workout appointments and organization of gym equipment usage through a relational database structure.
+AcademiaWeb is an academic project developed to manage gym users, workout appointments and equipment usage. The application uses a relational database to store and organize information.
 
 ## Features
 
@@ -12,7 +12,7 @@ AcademiaWeb is an academic project designed to manage gym users and training sch
 * Workout scheduling
 * Appointment listing and management
 * Equipment association with appointments
-* Update and delete operations
+* Record updates and deletion
 * PostgreSQL database integration
 
 ## Technologies Used
@@ -26,17 +26,17 @@ AcademiaWeb is an academic project designed to manage gym users and training sch
 
 ## Project Structure
 
-The project follows a layered architecture:
+The project is organized into layers to separate responsibilities:
 
-* **Model** – Entity classes and business objects
-* **Controller** – Request handling and application flow
-* **Business (Negócio)** – Business rules
-* **Persistence** – Database access layer
-* **Util** – Database connection and utility classes
+* **Model:** Entity classes and business objects
+* **Controller:** Request handling and application flow
+* **Business:** Business rules
+* **Persistence:** Database access and operations
+* **Util:** Database connection and utility classes
 
 ## Database
 
-The application uses PostgreSQL as its relational database management system.
+The application uses PostgreSQL as its relational database management system, with JDBC for database connectivity.
 
 Main entities:
 
@@ -44,21 +44,19 @@ Main entities:
 * Equipment
 * Appointment
 
-Relationships are managed through database tables and JDBC operations.
-
 ## Learning Objectives
 
 This project was developed to practice:
 
 * Object-Oriented Programming (OOP)
 * Java Web Development
-* JDBC database connectivity
+* JSP and JDBC
 * CRUD operations
-* Relational database modeling
-* PostgreSQL integration
+* Relational database integration
+* Layered application architecture
 
 ## Author
 
-Pedro Lucas
+**Pedro Lucas**
 
-Systems Information Student focused on Databases, SQL and PostgreSQL.
+Information Systems Student at UEG | Software Development
